@@ -2,5 +2,5 @@
 A Quiz website using html
 
 git add --all
-git commit -m "removed header div from index.html"
+git commit -m "added favicon"
 git push origin master

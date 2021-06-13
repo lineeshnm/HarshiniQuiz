@@ -2,5 +2,5 @@
 A Quiz website using html
 
 git add --all
-git commit -m "Added more quiz in readingday"
+git commit -m "removed header div from index.html"
 git push origin master
